@@ -1,5 +1,5 @@
 # Sito-Web-CPT-Bellinzona
-Primo progetto del 4° anno
+Primo progetto del 4° anno <br>
 •	Allievo: Jeremy Jornod
 •	Docente responsabile: Andrea Albertini
 •	Scuola Arti e Mestieri Trevano (SAMT)
